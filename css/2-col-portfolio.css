@@ -17,6 +17,7 @@ footer {
 }
 
 .old-price {
+	display:none;
 	text-decoration: line-through;
 	color:#BBBBBB;
 }
